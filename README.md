@@ -80,7 +80,7 @@ Feel free to reach out or collaborate:
 ## 🧪 Run Locally
 
 ```bash
-git clone https://github.com/ibrahem22-dev/MatchMe.git
+git clone https://github.com/YourUsername/MatchMe.git
 cd MatchMe
 npm install
 npm start
